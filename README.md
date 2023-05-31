@@ -48,6 +48,8 @@
 Приятной игры!
 
 # Скриншоты геймплея
+ход игры
 ![изображение](https://github.com/KhitrovValera/8192/assets/135176752/6532c59d-6a9e-4ea4-acd4-3dfb67aa3501)
+поражение
 ![изображение](https://github.com/KhitrovValera/8192/assets/135176752/865ebcf8-fc45-4638-87cb-ce868f005c09)
 
